@@ -1,2 +1,2 @@
-# dropshare-personal-theme
+# Personal Dropshare Theme
 My personal landing page for dropshare.
